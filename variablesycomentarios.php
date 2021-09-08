@@ -1,5 +1,5 @@
 <?php
-    //Declaracion de variables
+    //Declaracion de variables Te rifaste
     $mivariable = 1;
     $mivariable2 = "nombre";
     $mivariable3 = 1.5;
